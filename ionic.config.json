@@ -1,0 +1,10 @@
+{
+  "name": "senior",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
